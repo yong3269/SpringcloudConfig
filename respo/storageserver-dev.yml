@@ -1,0 +1,7 @@
+server:
+  port: 18101
+  
+spring:
+  data:
+    mongodb:
+      uri: mongodb://qizy:qizhiyong@47.75.73.237:17017/isqzy
