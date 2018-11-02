@@ -1,0 +1,6 @@
+server:
+  port: 13101
+
+feign:
+  hystrix:
+    enabled: true
