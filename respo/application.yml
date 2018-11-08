@@ -1,8 +1,4 @@
-spring:
-  profiles:
-    active: dev
-
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:11101/eureka/
+isqzy:
+  iskey: DhNNG3jAanCNuQ9v8a4XtuqifKM1OO
+  isvalue: LTAIzkAbM7MXSkWW
+  
