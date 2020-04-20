@@ -4,12 +4,12 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://47.75.73.237:3306/isqzy?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
-    username: qizy
-    password: qizhiyong
+    url: jdbc:mysql://:3306/isqzy?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    username: 
+    password: 
   data:
     mongodb:
-      uri: mongodb://qizy:qizhiyong@47.75.73.237:17017/isqzy
+      uri: 
   jpa:
     hibernate:
       ddl-auto: update
